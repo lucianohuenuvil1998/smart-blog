@@ -1,0 +1,35 @@
+
+.contactPage{
+    display: flex;
+    background-color: aliceblue;
+
+}
+
+
+
+
+.formContainer{
+    padding: 50px;
+
+    border-radius: 20px;
+}
+
+.inputBox{
+    display: flex;
+    padding: 10px;
+}
+
+.label{
+    display: flex;
+    width: 70px;
+    align-items: center;
+
+}
+
+.input{
+    width: 500px;
+    height: 30px;
+    border: none;
+}
+
+

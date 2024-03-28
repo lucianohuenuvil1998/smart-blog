@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+    margin: 0;
+}
+
+/* .container{
+    padding-left: 8%;
+    padding-right: 8%;
+} */
+
+
+/* .contenedorBlogs{
+    display: flex;
+} */
+
+
+@media only screen and (max-width: 800px){
+
+    /* .container{
+        padding-left: 5%;
+        padding-right: 5%;
+    } */
+}
+
+@media only screen and (max-width: 600px){
+
+    /* .container{
+        padding-left: 1%;
+        padding-right: 1%;
+    } */
+}
